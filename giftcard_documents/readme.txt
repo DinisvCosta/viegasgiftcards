@@ -1,0 +1,1 @@
+This folder includes the giftcard documents for the client.
